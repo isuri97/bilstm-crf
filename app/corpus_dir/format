@@ -1,0 +1,9 @@
+vocab format
+
+["市", "领导", "到", "成都", ...]
+
+dataset format
+
+[sentence][\tab][tags] :  list of string
+
+["市", "领导", "到", "成都", ...]   ["B", "B", "I", "B", "B", "I", ...]
